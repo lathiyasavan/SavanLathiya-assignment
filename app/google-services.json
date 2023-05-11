@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131712328632",
+    "project_id": "vivatechdemotask",
+    "storage_bucket": "vivatechdemotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131712328632:android:753b3c78b2d4b5ba0fa54d",
+        "android_client_info": {
+          "package_name": "com.vivatechdemotask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131712328632-i658mod5jn74jl4fs8hhke8jhnl7amuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYb17dvpjEvcgqxpdpgixnktVRGfL1Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131712328632-i658mod5jn74jl4fs8hhke8jhnl7amuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
